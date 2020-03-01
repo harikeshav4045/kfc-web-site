@@ -1,0 +1,139 @@
+*{
+  
+
+}
+.home{
+  position: fixed;
+  top: 10px;
+  left:10px;
+
+}
+.home a{
+  text-decoration: none;
+  color: white;
+}
+H1{
+  text-align: center;
+background-color: red;
+color: white;
+font-family: 'Open Sans';
+font-family: 'Trade Winds' ;
+width: 1500px;
+position: fixed;
+top: -20px;
+
+}
+
+.contact
+{
+  position:fixed;
+  right: 10px;
+  top: 10px;
+}
+.contact  a{
+  text-decoration: none;
+  color: green;
+}
+.menu .fa{
+  margin-right: 70px;
+}
+
+
+  .menu{
+    color:lightblue;
+    background-color: white;
+    text-align: center;
+    margin-top: 100px;
+  }
+  .menu ul{
+    display: inline-flex;
+    color: grey;
+    list-style: none;
+
+  }
+  .menu li{
+      margin: 2px;
+      width: 150px;
+      padding: 1px;
+  }
+  .menu ul li:hover {
+    background:lightblue;
+  }
+
+.category{
+  text-align: center;
+}
+.category ul{
+  display:inline-flex;
+
+  list-style: none;
+
+}
+.category ul li{
+  width: 250px;
+  margin: 10px;
+  padding: 1px;
+  letter-spacing: 8px;
+  background-color: grey;
+}
+.category a{
+  text-decoration: none;
+  color: WHITE;
+}
+
+ #green:hover{
+  background: green;
+}
+
+  #red:hover{
+  background:red;
+
+}
+.imghome{
+margin-left: 100px;
+}
+
+.imghome2{
+  margin-left: 180px;
+
+}
+.menu .fa{
+  margin-right: 70px;
+}
+
+
+  .menu2{
+    color:lightblue;
+    background-color: white;
+    text-align: center;
+    margin-top: 100px;
+  }
+  .menu2 ul{
+    display: inline-flex;
+    color: grey;
+    list-style: none;
+
+  }
+  .menu2 li{
+      margin: 2px;
+      width: 150px;
+      padding: 1px;
+  }
+  .menu2 ul li:hover {
+    background:lightblue;
+  }
+
+.contact2
+{
+  left: 10px;
+  margin-bottom: -18px;
+}
+.contact2  a{
+  text-decoration: none;
+}
+
+p{
+style:justify;
+  top: 618px;
+  left: 50px;
+}
